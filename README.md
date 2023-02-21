@@ -31,7 +31,7 @@ When should you be extra careful on the road?
 
 ### Storm Paths
 
-How do tropical storms move around over the years?
+How do typical storms move around over the years?
 
 <img width="1377" alt="Screenshot 2023-02-21 at 3 02 36 PM" src="https://user-images.githubusercontent.com/67173948/220446967-6a635074-b9d6-46a3-8801-5ccf93a714c3.png">
 
