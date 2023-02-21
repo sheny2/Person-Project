@@ -23,8 +23,8 @@ Both in Monte Carlo Method as well as using numerical integration.
 <img width="561" alt="Screenshot 2023-02-21 at 2 26 45 PM" src="https://user-images.githubusercontent.com/67173948/220439873-3dd31ddd-ec12-4c7d-b7f3-2c68d3ee53c7.png">
 
 
-### Accidents
+### Traffic Accidents
 
-When should you be extra careful?
+When should you be extra careful on the road?
 
 <img width="998" alt="Screenshot 2023-02-21 at 2 44 39 PM" src="https://user-images.githubusercontent.com/67173948/220443539-abe2ef9c-4cdd-4f90-8c13-65ec4336f409.png">
