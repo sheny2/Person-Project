@@ -1,0 +1,61 @@
+---
+title: "Storms"
+output: pdf_document
+---
+
+## Name: Yicheng Shen
+
+--------------------------------------------
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, collapse = TRUE, 
+                      warning = FALSE, message = FALSE)
+library(ggplot2)
+library(tidyverse)
+library(mosaic)
+library(kableExtra)
+ggplot2::theme_set(ggplot2::theme_bw())
+knitr::opts_chunk$set(out.width = "80%", fig.align = 'center')
+```
+
+
+### Storms
+
+```{r, fig.height = 5, fig.width = 10,out.width='100%'}
+data(storms, package = "nasaweather")
+ggplot(data = storms,mapping = aes(x = long, y = lat, color = name)) +  facet_wrap(~year, nrow=1)+ 
+  geom_path() + scale_color_discrete(guide="none") + 
+  coord_map()
+```
+
+
+```{r, fig.height = 15, fig.width = 25,out.width='100%'}
+world <- map_data("world")
+library(maps)
+library(rgeos)
+library(ggspatial)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+world <- ne_countries(scale = "medium", returnclass = "sf")
+world_points<- st_centroid(world)
+world_points <- cbind(world, st_coordinates(st_centroid(world$geometry)))
+mapWorld <- borders("world", colour="gray60", fill="gray85")
+
+ggplot(data = storms,mapping = aes(x = long, y = lat, color = name)) +  facet_wrap(~year, nrow=1)+ 
+  geom_path(size=1.6) + scale_color_discrete(guide="none") + 
+  coord_map() + mapWorld +xlim(-90, 0)+ylim(0, 75) +geom_text(data= world_points,aes(x=X, y=Y, label=name),
+            color = "gray20", fontface = "italic", check_overlap = T, size = 2)
+```
+
+
+### Storms by Year
+
+```{r}
+library(scales)
+ggplot(data = storms) +
+  geom_bar(mapping = aes(x = year, fill = type), position = "fill") +
+  labs(y= "")+
+  scale_fill_brewer( palette = 8, direction = 4, aesthetics = "fill") + 
+  scale_x_continuous(breaks = breaks_width(1))
+```
