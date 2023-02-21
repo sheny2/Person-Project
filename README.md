@@ -28,3 +28,10 @@ Both in Monte Carlo Method as well as using numerical integration.
 When should you be extra careful on the road?
 
 <img width="998" alt="Screenshot 2023-02-21 at 2 44 39 PM" src="https://user-images.githubusercontent.com/67173948/220443539-abe2ef9c-4cdd-4f90-8c13-65ec4336f409.png">
+
+### Storm Paths
+
+How do tropical storms move around over the years?
+
+<img width="1377" alt="Screenshot 2023-02-21 at 3 02 36 PM" src="https://user-images.githubusercontent.com/67173948/220446967-6a635074-b9d6-46a3-8801-5ccf93a714c3.png">
+
