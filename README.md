@@ -12,10 +12,9 @@ Some examples include:
 
 ### Wordle Solver in Python
 
-A cool algorithm that achieves over 90% success rate at solving the wordle game! 
+A cool algorithm that achieves over 90% success rate at solving the wordle game. Try you favourite word now!
 
-![1_dqO2c8N7iBqPmEP_ZM7BYw](https://user-images.githubusercontent.com/67173948/220438100-223febc9-6b3d-4196-97fc-7b9448dd090f.png)
-
+<img width="528" alt="Screenshot 2023-02-21 at 2 29 32 PM" src="https://user-images.githubusercontent.com/67173948/220440385-f4c829e0-2136-4a1a-b2a4-b7febb4e353b.png">
 
 ### Probability mass in high dimensions
 
