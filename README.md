@@ -1,6 +1,6 @@
 # My Person Coding Projects
 
-This is a repo documenting some interesting coding work that I have done (individually or collaboratively) over time. Please enjoy! 
+This is a repo documenting some interesting coding work that I have done (individually or collaboratively) over time. See details in specific files. 
 
 Some examples include:
 
