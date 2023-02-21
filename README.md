@@ -13,3 +13,10 @@ Some examples include:
 ### Wordle Solver in Python
 
 ![1_dqO2c8N7iBqPmEP_ZM7BYw](https://user-images.githubusercontent.com/67173948/220438100-223febc9-6b3d-4196-97fc-7b9448dd090f.png)
+
+
+### Probability mass in high dimensions
+
+Both in Monte Carlo Method as well as using numerical integration.
+
+<img width="561" alt="Screenshot 2023-02-21 at 2 26 45 PM" src="https://user-images.githubusercontent.com/67173948/220439873-3dd31ddd-ec12-4c7d-b7f3-2c68d3ee53c7.png">
