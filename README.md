@@ -1,4 +1,4 @@
-# My Person Coding Projects
+# My Personal Coding Projects
 
 This is a repo documenting some of the interesting coding work that I have done (both individually and collaboratively) over time. No guarantee that they are statistically related. See more details in specific files. 
 
