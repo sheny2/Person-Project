@@ -8,8 +8,7 @@ Some examples include:
 
 ![minard_lg](https://user-images.githubusercontent.com/67173948/220437794-71f89de2-d343-4c5d-b76e-f0bb853750b8.gif)
 
-<img width="975" alt="Screenshot 2023-02-22 at 4 07 15 PM" src="https://user-images.githubusercontent.com/67173948/220759339-61649fe7-a707-465b-bd32-49e57915c766.png">
-
+<img width="1040" alt="Screenshot 2023-02-27 at 9 24 03 PM" src="https://user-images.githubusercontent.com/67173948/221736999-f789ef49-d82a-4ae5-a878-697980ea2aa8.png">
 
 
 ### Wordle Solver in Python
