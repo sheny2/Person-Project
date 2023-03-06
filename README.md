@@ -6,6 +6,8 @@ Some examples include:
 
 ### Charles Joseph Minard’s depiction of Napoleon’s disastrous Russian campaign in 1812
 
+A classic data visualization exploration
+
 ![minard_lg](https://user-images.githubusercontent.com/67173948/220437794-71f89de2-d343-4c5d-b76e-f0bb853750b8.gif)
 
 <img width="1037" alt="Screenshot 2023-02-28 at 8 10 38 PM" src="https://user-images.githubusercontent.com/67173948/222019416-e7a154b4-b562-4d30-93d2-106a6a95c4e2.png">
@@ -14,7 +16,7 @@ Some examples include:
 
 ### Wordle Solver in Python
 
-A cool algorithm that achieves over 90% success rate at solving the wordle game. Try you favourite word now!
+A cool algorithm that achieves over 90% success rate at solving the wordle game. Try your favourite wordle word now!
 
 <img width="428" alt="Screenshot 2023-02-21 at 2 29 32 PM" src="https://user-images.githubusercontent.com/67173948/220440385-f4c829e0-2136-4a1a-b2a4-b7febb4e353b.png">
 
