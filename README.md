@@ -41,3 +41,10 @@ How do typical storms move around over the years?
 
 <img width="1377" alt="Screenshot 2023-02-21 at 3 02 36 PM" src="https://user-images.githubusercontent.com/67173948/220446967-6a635074-b9d6-46a3-8801-5ccf93a714c3.png">
 
+### Gaussian Process Regression Model
+
+Implement GP regression by hand
+
+<img width="761" alt="Screenshot 2023-03-06 at 4 43 09 PM" src="https://user-images.githubusercontent.com/67173948/223239715-46dedbc5-4665-4ae9-ab01-91168ba2455d.png">
+
+
