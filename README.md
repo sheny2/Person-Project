@@ -55,8 +55,8 @@ Implement GP regression by hand
 
 ### Mahantten Parking & Police Precincts
 
-<img width="1068" alt="Screenshot 2023-03-21 at 10 15 15 PM" src="https://user-images.githubusercontent.com/67173948/226784471-041683a4-59b8-42f3-8491-122377e0581a.png">
+<img width="768" alt="Screenshot 2023-03-21 at 10 15 15 PM" src="https://user-images.githubusercontent.com/67173948/226784471-041683a4-59b8-42f3-8491-122377e0581a.png">
 
-<img width="1068" alt="Screenshot 2023-03-21 at 10 14 58 PM" src="https://user-images.githubusercontent.com/67173948/226784440-35fbee52-f6c2-4a7e-b19d-30e09863b555.png">
+<img width="768" alt="Screenshot 2023-03-21 at 10 14 58 PM" src="https://user-images.githubusercontent.com/67173948/226784440-35fbee52-f6c2-4a7e-b19d-30e09863b555.png">
 
 
