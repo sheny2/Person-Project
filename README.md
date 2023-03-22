@@ -4,6 +4,13 @@ This is a repo documenting some of the interesting coding work that I have done 
 
 Some examples include:
 
+### Storm Paths
+
+How do typical storms move around over the years?
+
+<img width="1377" alt="Screenshot 2023-02-21 at 3 02 36 PM" src="https://user-images.githubusercontent.com/67173948/220446967-6a635074-b9d6-46a3-8801-5ccf93a714c3.png">
+
+
 ### Charles Joseph Minard’s depiction of Napoleon’s disastrous Russian campaign in 1812
 
 A classic data visualization exploration
@@ -36,12 +43,6 @@ When should you be extra careful on the road?
 
 <img width="1037" alt="Screenshot 2023-02-23 at 3 55 41 PM" src="https://user-images.githubusercontent.com/67173948/221028194-85f0da53-bc77-4b31-98f9-d31d4825306c.png">
 
-
-### Storm Paths
-
-How do typical storms move around over the years?
-
-<img width="1377" alt="Screenshot 2023-02-21 at 3 02 36 PM" src="https://user-images.githubusercontent.com/67173948/220446967-6a635074-b9d6-46a3-8801-5ccf93a714c3.png">
 
 
 ### Gaussian Process Regression Model
