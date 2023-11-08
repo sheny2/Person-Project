@@ -63,9 +63,11 @@ Implement GP regression by hand
 
 ### Spatial–temporal Modeling
 
-<img width="422" alt="Screenshot 2023-11-07 at 11 57 29 PM" src="https://github.com/sheny2/Personal-Project/assets/67173948/df411f57-e438-4f5e-8f47-a231d09dc262">
+<img width="817" alt="Screenshot 2023-11-08 at 12 09 15 AM" src="https://github.com/sheny2/Personal-Project/assets/67173948/393b77e0-fca6-4a9f-a4e8-0ef4938bba35">
 
 <img width="581" alt="Screenshot 2023-11-07 at 11 57 05 PM" src="https://github.com/sheny2/Personal-Project/assets/67173948/70f78680-d291-416b-83aa-9bc50b2d5b9e">
+
+<img width="422" alt="Screenshot 2023-11-07 at 11 57 29 PM" src="https://github.com/sheny2/Personal-Project/assets/67173948/df411f57-e438-4f5e-8f47-a231d09dc262">
 
 
 
